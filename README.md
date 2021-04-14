@@ -1,6 +1,7 @@
 ### Hi there 👋
-  I'm Carrye!
-  🌱 I'm currently learning Javascript, Node, Express, React, and more every day
+  Welcome to my page!
+I'm Carrye, Fullstack developer from  Bangor, Maine, currently living at the beach in Florida.
+  🌱 I've currently learned Javascript, Node, Express, React, and many more every day
   <p>Technologies I'm currently using:</p>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -8,6 +9,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  
   <img alt="Nodejs" src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
+  <img alt="mySQL" src="https://tse3.mm.bing.net/th?id=OIP.7qgMo2LM5aYa3CGE8NUh5AHaEK&pid=Api&P=0&w=279&h=158" />
 </p>
 <!--
 
