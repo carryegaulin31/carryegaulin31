@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on ...blockchain, I have no experience with this and would like to tap into it.
 - 🤔 I’m looking for help with ...advice on anything.  I am still fairly new and there is so much out there that I don't even know exists yet.
 - 💬 Ask me about ...absolutely anything I may or may not have an answer but you can always ask and I will do my best.
-- 📫 How to reach me: ...Email is best carryegaulin033178@gmail.com
+- 📫 How to reach me: ...Email is best carryegaulin111@gmail.com
 - 😄 Pronouns: ...her/she
 - ⚡ Fun fact: ...I love fishing, I have participated and won many sailfish tournements in the Florida Keys.
 🔭 I’m currently working on ...
